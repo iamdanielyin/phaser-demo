@@ -38,7 +38,7 @@ gulp.task('webpack-dev-server', function (callback) {
             color: true
         },
         // proxy: {
-        //     '/ishop/**/*': {
+        //     '/server/**/*': {
         //         target: 'http://localhost:8181',
         //         secure: false
         //     }
